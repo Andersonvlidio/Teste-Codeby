@@ -2,7 +2,9 @@
 
 Essa é a solução que cheguei para o desafio proposto pela Codeby. 
 
-[Demo](https://github.com/Andersonvlidio/Teste-Codeby/blob/main/teste-layout.pdf)
+[layout](https://github.com/Andersonvlidio/Teste-Codeby/blob/main/teste-layout.pdf)
+
+[link para pagina](https://github.com/Andersonvlidio/Teste-Codeby)
 
 
 ## Ferramentas utilizadas
