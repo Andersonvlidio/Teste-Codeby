@@ -4,7 +4,7 @@ Essa é a solução que cheguei para o desafio proposto pela Codeby.
 
 [layout](https://github.com/Andersonvlidio/Teste-Codeby/blob/main/teste-layout.pdf)
 
-[link para pagina](https://github.com/Andersonvlidio/Teste-Codeby)
+[link para pagina](https://andersonvlidio.github.io/Teste-Codeby/)
 
 
 ## Ferramentas utilizadas
